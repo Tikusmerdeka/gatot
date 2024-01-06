@@ -4,7 +4,7 @@
 
 # TAMPILAN SCRIPT
 
-![alt text](https://github.com/Tikusmerdeka/Apex/blob/main/IMG_20240106_143546.jpg?raw=true)
+![alt text](https://github.com/Tikusmerdeka/gatot/blob/main/1704526984942.jpg?raw=true)
 # Instal
 
 
